@@ -1,51 +1,27 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Aurora interstellar - A Jornada Além das Estrelas
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+Aurora Interstelar: A Jornada Além das Estrelas" é uma história de ficção científica que se passa no início do século XXII, quando a humanidade embarca em sua primeira expedição intergaláctica além do sistema solar. A história segue a tripulação da nave de pesquisa intergaláctica "Pioneer" enquanto eles exploram o sistema estelar Trappist-1 e fazem uma descoberta surpreendente em uma de suas luas. 
+Com apenas 6 páginas, este eBook oferece uma emocionante introdução ao mundo da ficção científica, repleto de aventura, mistério e possibilidades infinitas além das estrelas.
+A história contida neste eBook e suas imagens foram geradas inteiramente por inteligências artificiais.
+
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+    * IA Generativa [ChatGPT](https://chat.openai.com/) para roteirização;
+    * IA Generativa [Adobe Firefly](https://www.adobe.com/br/products/firefly/features/ai-art-generator.html) para criar a arte visual do e-book;
+    * Ferramenta Canva para edição.
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o ChatGPT para me ajudar na criação dessa história e estruturar o conteúdo. O Adobe Firefly foi usado para gerar as imagens contidas neste e-book. Para concluir, a montagem final foi feita no [Canva](https://www.canva.com/).
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book apresenta um conteúdo envolvente, rápido e um tanto curiosos!
+[Aurora interstellar - A Jornada Além das Estrelas](https://www.canva.com/design/DAGHmu4DfIs/7LRmADJF4HlszFDP-xgqbQ/view?utm_content=DAGHmu4DfIs&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
