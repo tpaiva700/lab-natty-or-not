@@ -8,13 +8,13 @@ A história contida neste eBook e suas imagens foram geradas inteiramente por in
 
 
 ## 🤖 Tecnologias Utilizadas
-    * IA Generativa [ChatGPT](https://chat.openai.com/) para roteirização;
-    * IA Generativa [Adobe Firefly](https://www.adobe.com/br/products/firefly/features/ai-art-generator.html) para criar a arte visual do e-book;
+    * IA Generativa ChatGPT para roteirização;
+    * IA Generativa Adobe Firefly para criar a arte visual do e-book;
     * Ferramenta Canva para edição.
 
 
 ## 🧐 Processo de Criação
-Utilizei o ChatGPT para me ajudar na criação dessa história e estruturar o conteúdo. O Adobe Firefly foi usado para gerar as imagens contidas neste e-book. Para concluir, a montagem final foi feita no [Canva](https://www.canva.com/).
+Utilizei o [ChatGPT](https://chat.openai.com/) para me ajudar na criação dessa história e estruturar o conteúdo. O [Adobe Firefly](https://www.adobe.com/br/products/firefly/features/ai-art-generator.html) foi usado para gerar as imagens contidas neste e-book. Para concluir, a montagem final foi feita no [Canva](https://www.canva.com/).
 
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente, rápido e um tanto curiosos!
